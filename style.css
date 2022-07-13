@@ -1,0 +1,38 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+.logo  {
+    float: left;
+    
+}
+
+.hero  {
+    justify-content: center;
+    height: 400px;
+    width: 400px;
+    
+}
+.homepage  {
+    justify-content: center;
+    display: flex;
+}
+
+.homepage1  {
+    display: inline-flex;
+    justify-content: space-between;
+}
+.num1 {
+    display: inline-block;
+    justify-content: right;
+}
+.num2 {
+    display: inline-block;
+    justify-content: left;
+}
